@@ -27,7 +27,7 @@ function Giocodeidadi() {
         console.log("Giocatore 1 vince!");
     } else if (Giocatore2 > Giocatore1) {
         console.log("Giocatore 2 vince!");
-    } else if (Giocatore1 = Giocatore2) {
+    } else if (Giocatore1 == Giocatore2) {
         console.log("I giocatori pareggiano")
     }
 }
